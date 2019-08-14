@@ -27,4 +27,9 @@
 
 **Thoughts**: Around 1-2 years ago I had previously completed the Codecademy HTML/CSS courses. I'm excited to go back through it again though, it's a great refresher. I've tried to build websites since I was 14, I used everything from photoshop slicing, Dreamweaver, ect but I never really finished one. I'm really looking forward to the project of building the google webpage.
 
+### Day 4: August 13, Tuesday 
+
+**Today's Progress**: Continued and conquered Introduction to HTML! Moving on to the HTML Document standards section tomorrow!
+
+**Thoughts**: A lot of this is familiar but going through this time it feels different. Not because I knew a lot of the information but because I'm watching additional videos, reading blogs posts, ect. I feel a much better grasp on the material.
 
