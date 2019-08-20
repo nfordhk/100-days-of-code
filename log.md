@@ -33,3 +33,8 @@
 
 **Thoughts**: A lot of this is familiar but going through this time it feels different. Not because I knew a lot of the information but because I'm watching additional videos, reading blogs posts, ect. I feel a much better grasp on the material.
 
+### Day 4: August 19, Monday 
+
+**Today's Progress**: Finished today the Codecademy section on HTML Document Standards, onto Tables/Forms tomorrow! 
+
+**Thoughts**: I just got back from vacation and my brain still isn't functioning but, I had enough time off. I wanted to dive right back into my learnings. I'm exhausted though, time to catch some sleep ;). 
