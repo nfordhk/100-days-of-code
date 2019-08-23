@@ -38,3 +38,16 @@
 **Today's Progress**: Finished today the Codecademy section on HTML Document Standards, onto Tables/Forms tomorrow! 
 
 **Thoughts**: I just got back from vacation and my brain still isn't functioning but, I had enough time off. I wanted to dive right back into my learnings. I'm exhausted though, time to catch some sleep ;). 
+
+### Day 13: August 21, Wednesday 
+
+**Today's Progress**: Completed the Codecademy Tables section and started the HTML forms section.  
+
+**Thoughts**: Still way too tired from vacation... ZzZzZ going to be a slow week. 
+
+### Day 14: August 22, Thursday 
+
+**Today's Progress**: Finished the HTML forms section, onto the last section of the Codecademy course! 
+
+**Thoughts**: Onto the last section of form validation! Maybe I’ll come back later in the day and push through. I was actually surprised HTML was responsible for so many form related activities. I just assumed many of these aspects were handled by different components. 
+
