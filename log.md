@@ -51,3 +51,8 @@
 
 **Thoughts**: Onto the last section of form validation! Maybe I’ll come back later in the day and push through. I was actually surprised HTML was responsible for so many form related activities. I just assumed many of these aspects were handled by different components. 
 
+### Day 15: August 23, Thursday 
+
+**Today's Progress**: Wow, finished the HTML Codecademy intro course today. 
+
+**Thoughts**: I'm extremely excited to have successfully completed the HTML Codecademy course today! There was so much to learn! I remember when I was trying to build my Instagram bot previously using Selenium, I didn't always understand how to give the browser proper instructions. Learning HTML really is fundamental for everything. I can't wait to see what the CSS course will teach me.
