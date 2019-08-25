@@ -51,7 +51,7 @@
 
 **Thoughts**: Onto the last section of form validation! Maybe I’ll come back later in the day and push through. I was actually surprised HTML was responsible for so many form related activities. I just assumed many of these aspects were handled by different components. 
 
-### Day 15: August 23, Thursday 
+### Day 15: August 23, Friday
 
 **Today's Progress**: Wow, finished the HTML Codecademy intro course today. 
 
