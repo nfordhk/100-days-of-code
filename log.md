@@ -56,3 +56,9 @@
 **Today's Progress**: Wow, finished the HTML Codecademy intro course today. 
 
 **Thoughts**: I'm extremely excited to have successfully completed the HTML Codecademy course today! There was so much to learn! I remember when I was trying to build my Instagram bot previously using Selenium, I didn't always understand how to give the browser proper instructions. Learning HTML really is fundamental for everything. I can't wait to see what the CSS course will teach me.
+
+### Day 17: August 25, Sunday
+
+**Today's Progress**: Kicked off the CSS course, was able to complete the "intro" section. 
+
+**Thoughts**: When I went through the first exercise and I saw that beautiful webpage made up of only a few lines of CSS code I couldn't belive it. CSS is really powerful! 
