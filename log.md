@@ -62,3 +62,10 @@
 **Today's Progress**: Kicked off the CSS course, was able to complete the "intro" section. 
 
 **Thoughts**: When I went through the first exercise and I saw that beautiful webpage made up of only a few lines of CSS code I couldn't belive it. CSS is really powerful! 
+
+### Day 19: August 27, Tuesday
+
+**Today's Progress**: Completed Codecademy section for CSS Visual Rules and Intro to the Box Model.  
+
+**Thoughts**: Learning CSS has been a wild ride so far. The box model is interesting and how its laid out. I thought of a first few fun projects today. I’m looking forward to diving into them after I finish off The Odin Project Web Dev 101.
+
