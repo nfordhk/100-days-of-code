@@ -69,6 +69,12 @@
 
 **Thoughts**: Learning CSS has been a wild ride so far. The box model is interesting and how its laid out. I thought of a first few fun projects today. I’m looking forward to diving into them after I finish off The Odin Project Web Dev 101.
 
+### Day 20: August 28, Wednesday
+
+**Today's Progress**: Completed Codecademy "Changing the box model"
+
+**Thoughts**: Didn't have too much time today but, spent an easy 15-20 mins churning out the box model section.
+
 ### Day 21: August 29, Thursday
 
 **Today's Progress**: Continued with Codecademy CSS course with display, colors, and typography.
