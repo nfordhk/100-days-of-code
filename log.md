@@ -81,3 +81,8 @@
 
 **Thoughts**: I’ve learned tons but I’m ready to power through and finish this course. I really want to start on the project to apply this new knowledge. Learning for too long without applying it makes me feel a bit bored. 
 
+### Day 22: August 30, Friday
+
+**Today's Progress**: Continued with Codecademy CSS course on Grid Essentials. 
+
+**Thoughts**: One more course to go on the CSS track. I’m looking forward to completing it. I felt a bit confused about all the way to create and draw the grids. Probably should spend a little more time one this section. 
