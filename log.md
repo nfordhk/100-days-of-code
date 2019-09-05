@@ -89,10 +89,9 @@
 
 ### Day 25-27: September 4, Wednesday
 
-**Today's Progress**: Started the "google-homepage" project!   
+**Today's Progress**: Started and finished the "google-homepage" project!   
 
-**Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;)
-
+**Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;). In the end I decided to be happy with what I built and will be moving on the the JS section. 
 
 
 
