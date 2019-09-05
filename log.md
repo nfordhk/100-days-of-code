@@ -87,5 +87,12 @@
 
 **Thoughts**: All I can say is wow. The Codecademy HTML and CSS courses were extremely fun. My favorite part was seeing how little HTML/CSS goes into building such a beautiful website. 
 
+### Day 25-27: September 4, Wednesday
+
+**Today's Progress**: Started the "google-homepage" project!   
+
+**Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;)
+
+
 
 
