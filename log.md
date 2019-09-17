@@ -99,3 +99,11 @@
 **Today's Progress**: Kicked off the JavaScript fundamentals and completed the numbers portion. 
 
 **Thoughts**: Wow, it's been 10 days since I last logged into The Odin Project. I had a lot of personal items that sidetracked me, but I was very excited to log back in today. The arithmetic section overall was self-explanatory but there were a few interesting concepts. I’d be more eager to apply them in an upcoming assignment.
+
+
+### Day 38: September 16, Monday
+
+**Today's Progress**: Managed to complete JS fundamentals part one and get started on part two. 
+
+**Thoughts**: A lot of this information is similar from my previous learnings with Python. I’d be more interested in applying this knowledge to an assignment. At times, I feel TOP has you go through too much information between assignments. However, I’m going to keep following and we’ll see! 
+
