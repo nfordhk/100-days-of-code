@@ -93,13 +93,11 @@
 
 **Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;). In the end I decided to be happy with what I built and will be moving on the the JS section. 
 
-
 ### Day 36: September 14, Saturday
 
 **Today's Progress**: Kicked off the JavaScript fundamentals and completed the numbers portion. 
 
 **Thoughts**: Wow, it's been 10 days since I last logged into The Odin Project. I had a lot of personal items that sidetracked me, but I was very excited to log back in today. The arithmetic section overall was self-explanatory but there were a few interesting concepts. I’d be more eager to apply them in an upcoming assignment.
-
 
 ### Day 38: September 16, Monday
 
@@ -107,3 +105,8 @@
 
 **Thoughts**: A lot of this information is similar from my previous learnings with Python. I’d be more interested in applying this knowledge to an assignment. At times, I feel TOP has you go through too much information between assignments. However, I’m going to keep following and we’ll see! 
 
+### Day 39: September 17, Tuesday
+
+**Today's Progress**: Started to go through Strings Methods in the JS fundamentals part two.
+
+**Thoughts**: Short session today, the material was too dense for how tired I am. Little progress is better than no progress! 
