@@ -110,3 +110,10 @@
 **Today's Progress**: Started to go through Strings Methods in the JS fundamentals part two.
 
 **Thoughts**: Short session today, the material was too dense for how tired I am. Little progress is better than no progress! 
+
+### Day 40: September 18, Wednesday
+
+**Today's Progress**: Continued going through fundamentals part two.
+
+**Thoughts**: I’ve realized it’s taking me quite a while to get through the JS fundamentals. I believe it’s because I am taking too many notes while reading the material. I tried something new today, I abandoned my note taking for the time being. Rather than rewriting a lot of the article, I’m just going to bookmark it. My goal is to just focus on the material rather than task switching constantly. We’ll see how my retention keeps up. 😉 
+
