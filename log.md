@@ -117,3 +117,8 @@
 
 **Thoughts**: I’ve realized it’s taking me quite a while to get through the JS fundamentals. I believe it’s because I am taking too many notes while reading the material. I tried something new today, I abandoned my note taking for the time being. Rather than rewriting a lot of the article, I’m just going to bookmark it. My goal is to just focus on the material rather than task switching constantly. We’ll see how my retention keeps up. 😉 
 
+### Day 41: September 19, Thursday
+
+**Today's Progress**: Finally finished JavaScript Fundamentals Part Two! 
+
+**Thoughts**: Wow, that took me a long time for some reason. I found all the different conditions a bit tricky. I’ll probably need to watch a YouTube video to learn a bit more here. I’m excited that learning functions is next! After a few exercises, I feel I’m missing Python a bit. It seems much more intuitive compared to JS but, we’ll see as I progress. 
