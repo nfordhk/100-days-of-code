@@ -122,3 +122,9 @@
 **Today's Progress**: Finally finished JavaScript Fundamentals Part Two! 
 
 **Thoughts**: Wow, that took me a long time for some reason. I found all the different conditions a bit tricky. I’ll probably need to watch a YouTube video to learn a bit more here. I’m excited that learning functions is next! After a few exercises, I feel I’m missing Python a bit. It seems much more intuitive compared to JS but, we’ll see as I progress. 
+
+### Day 42: September 20, Friday – 5 DAY STREAK!
+
+**Today's Progress**: Reviewed Developer Tools 2.
+
+**Thoughts**: Developer Tools 2 blew me away! Having access to such a utility must really make development much more enjoyable. I can’t wait to try some of these out. 
