@@ -128,3 +128,10 @@
 **Today's Progress**: Reviewed Developer Tools 2.
 
 **Thoughts**: Developer Tools 2 blew me away! Having access to such a utility must really make development much more enjoyable. I can’t wait to try some of these out. 
+
+### Day 55: October 2nd, Wednesday (OVER HALF WAY TO 100 DAYS!) – 
+
+**Today's Progress**: Finished all the readings for Fundamentals Part 3 and started on the practice functions.  
+
+**Thoughts**: Eh, a bit disappointed I took such a long break here. However, as soon as I sat back down, I was eager to get moving again! I’m struggling a bit when the practice section. I might return to my old style of notes. The capitalize practice problem is interesting and currently giving me a run for my money. 
+
