@@ -93,37 +93,37 @@
 
 **Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;). In the end I decided to be happy with what I built and will be moving on the the JS section. 
 
-### Day 36: September 14, Saturday
+### Day 37: September 14, Saturday
 
 **Today's Progress**: Kicked off the JavaScript fundamentals and completed the numbers portion. 
 
 **Thoughts**: Wow, it's been 10 days since I last logged into The Odin Project. I had a lot of personal items that sidetracked me, but I was very excited to log back in today. The arithmetic section overall was self-explanatory but there were a few interesting concepts. I’d be more eager to apply them in an upcoming assignment.
 
-### Day 38: September 16, Monday
+### Day 39: September 16, Monday
 
 **Today's Progress**: Managed to complete JS fundamentals part one and get started on part two. 
 
 **Thoughts**: A lot of this information is similar from my previous learnings with Python. I’d be more interested in applying this knowledge to an assignment. At times, I feel TOP has you go through too much information between assignments. However, I’m going to keep following and we’ll see! 
 
-### Day 39: September 17, Tuesday
+### Day 40: September 17, Tuesday
 
 **Today's Progress**: Started to go through Strings Methods in the JS fundamentals part two.
 
 **Thoughts**: Short session today, the material was too dense for how tired I am. Little progress is better than no progress! 
 
-### Day 40: September 18, Wednesday
+### Day 41: September 18, Wednesday
 
 **Today's Progress**: Continued going through fundamentals part two.
 
 **Thoughts**: I’ve realized it’s taking me quite a while to get through the JS fundamentals. I believe it’s because I am taking too many notes while reading the material. I tried something new today, I abandoned my note taking for the time being. Rather than rewriting a lot of the article, I’m just going to bookmark it. My goal is to just focus on the material rather than task switching constantly. We’ll see how my retention keeps up. 😉 
 
-### Day 41: September 19, Thursday
+### Day 42: September 19, Thursday
 
 **Today's Progress**: Finally finished JavaScript Fundamentals Part Two! 
 
 **Thoughts**: Wow, that took me a long time for some reason. I found all the different conditions a bit tricky. I’ll probably need to watch a YouTube video to learn a bit more here. I’m excited that learning functions is next! After a few exercises, I feel I’m missing Python a bit. It seems much more intuitive compared to JS but, we’ll see as I progress. 
 
-### Day 42: September 20, Friday – 5 DAY STREAK!
+### Day 43: September 20, Friday – 5 DAY STREAK!
 
 **Today's Progress**: Reviewed Developer Tools 2.
 
@@ -135,3 +135,8 @@
 
 **Thoughts**: Eh, a bit disappointed I took such a long break here. However, as soon as I sat back down, I was eager to get moving again! I’m struggling a bit when the practice section. I might return to my old style of notes. The capitalize practice problem is interesting and currently giving me a run for my money. 
 
+### Day 60: October 7th, Monday
+
+**Today's Progress**: Was able to complete all the practice functions!   
+
+**Thoughts**: Just wow. I learned so much practicing those functions. Everything from syntax, better using the IDE, and how a function functions (pun intended). 
