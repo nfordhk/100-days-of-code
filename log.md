@@ -93,6 +93,8 @@
 
 **Thoughts**: It's been a fun experience taking all the knowledge learned over the past few weeks and applying it! I finally got the footer bar perfect. I'm struggling with a few more components but all the foundational features are there. I know TOP said "don't be a perfectionist" but I can't help it. ;). In the end I decided to be happy with what I built and will be moving on the the JS section. 
 
+**Link to work:** [Goolge Homepage; Live Demo](https://nfordhk.github.io/google-homepage/l)
+
 ### Day 37: September 14, Saturday
 
 **Today's Progress**: Kicked off the JavaScript fundamentals and completed the numbers portion. 
@@ -148,4 +150,5 @@
 **Thoughts**: I’ve been waiting for this part in TOP! I love converting my knowledge into a project. It’s not working quite yet but hopefully by weeks end! 
 
 **Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
+
 
