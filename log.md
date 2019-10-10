@@ -143,12 +143,13 @@
 
 **Thoughts**: Just wow. I learned so much practicing those functions. Everything from syntax, better using the IDE, and how a function functions (pun intended). 
 
-### Day 61: October 8th, Tuesday
+### Day 62: October 9th, Wednesday
 
-**Today's Progress**: Started on the rock, paper, scissors project
+**Today's Progress**: Was able to get R,P,S working! Ahhh it’s so cool. 
 
-**Thoughts**: I’ve been waiting for this part in TOP! I love converting my knowledge into a project. It’s not working quite yet but hopefully by weeks end! 
+**Thoughts**: I still have to complete the “game” function to score points and assign a winner. But this has been so much fun. I learned a lot by using an array and random to service the computer player. 
 
 **Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
+
 
 
