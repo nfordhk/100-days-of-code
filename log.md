@@ -143,6 +143,14 @@
 
 **Thoughts**: Just wow. I learned so much practicing those functions. Everything from syntax, better using the IDE, and how a function functions (pun intended). 
 
+### Day 61: October 8th, Tuesday
+
+**Today's Progress**: Started on the rock, paper, scissors project
+
+**Thoughts**: I’ve been waiting for this part in TOP! I love converting my knowledge into a project. It’s not working quite yet but hopefully by weeks end! 
+
+**Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
+
 ### Day 62: October 9th, Wednesday
 
 **Today's Progress**: Was able to get R,P,S working! Ahhh it’s so cool. 
