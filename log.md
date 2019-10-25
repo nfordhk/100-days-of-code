@@ -159,5 +159,12 @@
 
 **Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
 
+### Day 77: October 24th, Thursday
+
+**Today's Progress**: Still working on the RPS game. Was able to develop a scoring system. 
+
+**Thoughts**: Super disappointed my last coding day was 10+ days ago! Tried to make up for lost time but spending quite a few hours today trying to bring the game to completion. I got very close but, it the while loop to play continuous rounds until a winner is declared is broken :/ soon!
+
+**Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
 
 
