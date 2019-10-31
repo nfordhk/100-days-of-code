@@ -167,4 +167,10 @@
 
 **Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
 
+### Day 81: October 28th, Monday
+
+**Today's Progress**: Finally finished the RPS game!  
+
+**Thoughts**: This program was very challenging but rewarding. It was fun for the first time to use concepts such as arrays and while loops in JS. 
+**Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
 
