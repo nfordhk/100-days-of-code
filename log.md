@@ -174,3 +174,10 @@
 **Thoughts**: This program was very challenging but rewarding. It was fun for the first time to use concepts such as arrays and while loops in JS. 
 **Link to work:** [Rock, Paper, Scissors](https://github.com/nfordhk/rock-paper-scissors/blob/master/index.html)
 
+### Day 95: November 11th, 2019
+
+**Today's Progress**: Finish JavaScript Fundamental Part 4! 
+
+**Thoughts**: It’s been a while since I wrote a log but, rest assure I’ve been coding almost every day. Finishing JS fundamentals part 4 was really rewarding. I struggled a lot with the practice programs. It wasn’t until the practice section I realized that I didn’t understand the concepts as well as I thought. I had to step backwards and redo all of JS fundamentals part 3 again. I felt much more confident and once I was able to grasp the concepts firmly then, I moved onto completing JS fundamentals 4 with ease. My 100 days is almost up here, and this log serves as a nice reminder of how far I’ve come. Excited for the next and last 5 days. 
+
+
